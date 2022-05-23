@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*　基本設計 */
+body {
+	font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 0.9em;
+	line-height: 1.7em;
+	margin: 0px;
+	padding: 0px;
+}
+
+body h1 {
+	font-size: 1.2em;
+	width: 900px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	line-height: 5em;
+}
+p {
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	margin: 0px;
+	padding: 0px;
+}
+h3 {
+	margin: 0px;
+	padding: 0px;
+}
+img {
+	border: none;
+	vertical-align: bottom;
+	overflow: hidden;
+}
+dl {
+	margin: 0px;
+	padding: 0px;
+}
+dt {
+	margin: 0px;
+	padding: 0px;
+}
+dd {
+	margin: 0px;
+	padding: 0px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+li {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.content_bottom {
+	background-image: url(images/back_bottom.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	padding-bottom: 4px;
+}
+.left {
+	float: left;
+	margin-right: 30px;
+}
